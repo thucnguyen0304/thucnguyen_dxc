@@ -1,7 +1,4 @@
 java1
 git practice
-<<<<<<< HEAD
 bbbbb
-=======
 bbbbb
->>>>>>> 75f379755713b192e444f83f8282fb627f8411d6
